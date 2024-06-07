@@ -22,7 +22,7 @@ def main():
 
     while (1):
         pygame.display.update() # update display
-        pygame.time.wait(20) # interval of updating
+        pygame.time.wait(80) # interval of updating
         screen.fill((0, 0, 0, 0)) # fill screen with black R:0 G:0 B:0
 
         # racket
